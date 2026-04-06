@@ -10,6 +10,8 @@ _autosave-*
 *.dcm
 *.kicad_prl
 fp-info-cache
+Led_strips_under_bed_gerber/
+Led_strips_under_bed-backups/
 
 # --- ARDUINO ---
 # Ignoruj foldery budowania (kompilacji)
