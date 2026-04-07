@@ -7,4 +7,4 @@ The project uses 8 of HC-SR04 ultrasonic distance sensors to measure the distanc
 -beetween 55 cm and 85 cm - light up green
 -beetween 22 cm and 55 cm - light up red
 
-Everything is controlled via Atmega328p.
+Everything is controlled via Atmega328p. The led strips are of WS2813 type.
